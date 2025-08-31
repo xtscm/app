@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // CHANGE THIS FOR EACH VERSION
-const VERSION = "v1.0.0";
+const VERSION = "v2.0.0";
 
 // Database config
 const config = {
